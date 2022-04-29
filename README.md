@@ -12,7 +12,7 @@
 
 <a href="https://lweiser2.github.io/Weiser-Portfolio/VisitPittsburgh.html">Visit Pittsburgh</a>
 
-<a href="https://lweiser2.github.io/Weiser-Portfolio/insights.html">Insights</a>
+<a href="https://lweiser2.github.io/Weiser-Portfolio/insights.html">DEA Database Insights</a>
 
 <a href="https://lweiser2.github.io/Weiser-Portfolio/insights_cycling.html">Insights Cycling</a>
 
