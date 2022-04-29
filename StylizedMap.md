@@ -267,3 +267,5 @@
 
 I got my color palette from the Children's Book Project San Francisco's website. I took a screenshot of their webpage and then uploaded it to Canva's color palette generator. I then created a new map in Google's Map Styling Wizard. I added the hex numbers from the Canva palette, then made them lighter or darker (manually from the color chooser) to improve the appearance of the map. I tried to stay true to the original palette as much as possible.
 
+<a href="https://lweiser2.github.io/Weiser-Portfolio/">Back to the main page</a>
+
