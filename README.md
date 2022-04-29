@@ -15,3 +15,5 @@
 <a href="https://lweiser2.github.io/Weiser-Portfolio/insights.html">Insights</a>
 
 <a href="https://lweiser2.github.io/Weiser-Portfolio/insights_cycling.html">Insights Cycling</a>
+
+<a href="https://lweiser2.github.io/Weiser-Portfolio/Bidandworkplan.html">Final Project Bid and Workplan</a>
