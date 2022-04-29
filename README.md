@@ -10,7 +10,7 @@
 ## Portfolio Links
 <a href="https://lweiser2.github.io/Weiser-Portfolio/StylizedMap.html">Stylized Map</a>
 
-<a href="https://lweiser2.github.io/Weiser-Portfolio/Visit Pittsburgh.html">Visit Pittsburgh</a>
+<a href="https://lweiser2.github.io/Weiser-Portfolio/VisitPittsburgh.html">Visit Pittsburgh</a>
 
 <a href="https://lweiser2.github.io/Weiser-Portfolio/insights.html">Insights</a>
 
